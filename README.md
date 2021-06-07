@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/cover-hussainsam.png" height="200"/>
+  <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/cover-sam.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/Hi.gif" width="30px">, I'm Sam</h1>
@@ -100,3 +100,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+
