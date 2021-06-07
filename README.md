@@ -16,6 +16,7 @@
 
 
 
+
 <p align="center">
   <em>
       I currently work as a <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/dev.gif" width="30px"> in a research and development company, where we build products and services 	    that impact the lives of millions of people. I’m very passionate about learning new 	<b>technologies</b><img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/brain.gif" width="30px"> and <b>ideas</b><img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/idea.gif" width="30px">, I enjoy tackling challenges and sharing what I learned in the technical 	 community through writing <b>articles</b><img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/article.gif" width="30px">, <b>books</b><img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/book1.gif" width="30px"> and answering to <b>forums</b><img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/forum.jpg" width="30px">.&nbsp.
@@ -26,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainsam&label=Profile%20views&color=0e75b6&style=flat" alt="hussainsam" /> </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/developer.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***What I am doing***
 
