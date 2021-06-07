@@ -34,7 +34,7 @@
 ✔ I’m working on a new open-source project template for **ASP.NET Core APIs**.<br>
 ✔ I’m currently learning **Angular** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m am passionate about **AI and Machine learning**<br>
+✔ I’m passionate about **AI and Machine learning**<br>
 ✔ I regularly write articles on my website [hussainsam](https://hussainsam.com) <br>
 ✔ I am currently authoring a book titled  "**Efficient C# Programming**"<br>
 ✔ Fun fact : *You know you are a programmer when you spill coffee on your laptop and press ctrl + z to undo it.*<br><br><br><br>
